@@ -25,11 +25,12 @@ The Kickstarter dataset included funding goals and the sucess rate. As Louise wa
 The Kickstarter dataset is large. To make the data meaningful for Louise, data cleaning meant filtering data to reflect her area of interest along with formatting to allow for targeted analysis. For instance, the campaign dates were listed in Unix Timestamps and which were more readable if changed using this formula '=(((J2/60)/60)/24)+DATE(1970,1,1)'. In addition, of the 4,113 funding campaigns, only about 1,000 of those were for plays. Collecting additional data from another crowdfunding system specifically for plays may provide more data for Louise.
 
 ## Results
+Several conclusions can be made from the Kickstarter dataset to help Louise determine the best parameters to use for her crowdfunding campaign.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+From the analysis of the Theater Outcomes Based on Launch Date, one conclusion is that the most successful Kickstarter campaigns were launched in May or June. Additionally, this chart shows all theater productions and not just plays which are of interest to Louise. One of the challenges of this information is that this chart was created from the entire dataset (for all countries) rather than just in the countries where Louise is looking to open a musical theater production. Continuing to splice this data would be most helpful for Louise.
 
-- What can you conclude about the Outcomes based on Goals?
+From the Outcomes Based on Goal information, we can conclude that successful Kickstarter campaigns may depend on the funding goal. This analysis shows that campaigns with goals of less than $20,000 where successful over 50% of the time. Additionally, there were successful campaigns with goals between $35,000 and $45,000 but knowing the average number of donors and average donation amounts would further inform Louise on her strategy with funding campaigns with higher goal amounts.
 
-- What are some limitations of this dataset?
+The timeframe of this dataset may be problematic for Louise. This data is pulled from crowdfunding projects conducted from 2009 to 2017. If Louise is looking to fund a theater production in 2022, she may want to obtain more recent trends to help determine if these historical trends apply to today's market environment. 
 
-- What are some other possible tables and/or graphs that we could create?
+Finally, Louise initially expressed interest in opening theatrical productions in the United States as well as Great Britain. This current analysis could be refined to look at trends applicable to the Great Britain market especially in light of the nature of productions in the United Kingdom. 
