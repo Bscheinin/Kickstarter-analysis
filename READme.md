@@ -11,7 +11,7 @@ The Kickstarter dataset is large and contains data related to crowdfunding campa
 
 
 ### Analysis of Outcomes Based on Launch Date
-Musical theater productions typically run on a seasonal bases. Crowdfunding for successful musical theater productions also have a seasonal characteristic. The ![Outcomes Based on Launch Date](https://........) chart shows the number of successful campaigns by the month in which they were launched. The highest number of successful theater production campaigns were launched in May and June. 
+Musical theater productions typically run on a seasonal bases. Crowdfunding for successful musical theater productions also have a seasonal characteristic. The ![Outcomes Based on Launch Date](https://github.com/Bscheinin/Kickstarter-analysis/blob/main/Resources/Theater%20Outcomes%20Based%20on%20Launch%20Date.png) chart shows the number of successful campaigns by the month in which they were launched. The highest number of successful theater production campaigns were launched in May and June. 
 
 ### Analysis of Outcomes Based on Goals
 The Kickstarter dataset included funding goals and the sucess rate. As Louise was interested in musical theater plays, the ![Outcomes Based on Goal](https://.....) chart shows the funding ranges and the success rate of theater play campaigns. Fifty percent or more of funding campaigns were successful if the goal was leass than $20,000, the success rate rising as the goal decreased. There were also successful campaigns of 50% or more in the rant of $35,000 to $45,000. Further analysis for Louise on these higher funded projects by number of donors and average donation would be helpful.
